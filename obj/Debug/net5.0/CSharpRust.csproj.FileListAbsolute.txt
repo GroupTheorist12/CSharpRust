@@ -1,0 +1,16 @@
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust.deps.json
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust.runtimeconfig.json
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust.runtimeconfig.dev.json
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust.dll
+/home/brigg/CSharpRust/bin/Debug/net5.0/ref/CSharpRust.dll
+/home/brigg/CSharpRust/bin/Debug/net5.0/CSharpRust.pdb
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.csprojAssemblyReference.cache
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.GeneratedMSBuildEditorConfig.editorconfig
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.AssemblyInfoInputs.cache
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.AssemblyInfo.cs
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.csproj.CoreCompileInputs.cache
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.dll
+/home/brigg/CSharpRust/obj/Debug/net5.0/ref/CSharpRust.dll
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.pdb
+/home/brigg/CSharpRust/obj/Debug/net5.0/CSharpRust.genruntimeconfig.cache
