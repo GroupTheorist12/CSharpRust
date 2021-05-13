@@ -1,0 +1,15 @@
+[package]
+name = "csharp_rust"
+version = "0.1.0"
+authors = ["brad rigg"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name="csharp_rust"
+crate-type = ["dylib"]
+
+[dependencies]
+byte-tools = "0.3.1"
+libc = "0.2.94"
